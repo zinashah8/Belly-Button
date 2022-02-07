@@ -4,7 +4,7 @@
 This project focuses on building an interactive dashboard to visualize the bacterial species living in the navel of candidates of a research about meat protein synthesis from human bacteria. 
 
 ## Resources
-- Data Source: [Belly button samples data](https://github.com/zinashah8/belly_button/blob/main/samples.json)
+- Data Source: [Belly button samples data](https://github.com/zinashah8/belly-button/blob/main/sample.json)
 - Tech used: HTML/CSS, JavaScript, VS Code, BootStrap, D3, Plotly
 
 
